@@ -82,6 +82,40 @@ The analysis shows that:
 ![RMS](figures/rms_vs_frequency.png)
 
 
+## Results Summary
+
+The suspension response was quantitatively evaluated using RMS, standard deviation, and peak-to-peak amplitude.
+
+### Position (cm)
+- Low frequency (0.5 Hz):
+  - RMS ≈ 2.20
+  - STD ≈ 2.20
+  - Peak-to-peak ≈ 6.71
+
+- High frequency (5 Hz):
+  - RMS ≈ 0.99
+  - STD ≈ 0.97
+  - Peak-to-peak ≈ 4.73
+
+### Acceleration (G)
+- Low frequency (0.5 Hz):
+  - RMS ≈ 0.03
+  - STD ≈ 0.03
+  - Peak-to-peak ≈ 0.27
+
+- High frequency (5 Hz):
+  - RMS ≈ 0.97
+  - STD ≈ 0.97
+  - Peak-to-peak ≈ 3.14
+
+### Interpretation
+
+The low-frequency motion produces larger displacement, while the high-frequency motion produces significantly higher acceleration.
+
+Since ride quality is primarily influenced by acceleration, the high-frequency test (5 Hz) results in stronger vibration and therefore poorer ride comfort.
+
+
+
 ## How to Run
 
 - Open MATLAB
