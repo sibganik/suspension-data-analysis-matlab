@@ -65,19 +65,21 @@ The analysis shows that:
 - the high-frequency test produces much larger acceleration
 - the high-frequency response indicates poorer ride quality due to stronger vibration
 
+
+
 ## Example Output
 
 ### Raw Experimental Data
-![Raw Data](figures/Raw experimental data.png)
+![Raw Data](figures/raw_experimental_data.png)
 
 ### Position Response (Low vs High Frequency)
-![Position](figures/Position low vs high frequency.png)
+![Position](figures/position_low_vs_high.png)
 
 ### Acceleration Response (Low vs High Frequency)
-![Acceleration](figures/Acceleration low vs high frequency.png)
+![Acceleration](figures/acceleration_low_vs_high.png)
 
 ### RMS Comparison
-![RMS](figures/RMS versus frequency.png)
+![RMS](figures/rms_vs_frequency.png)
 
 
 ## How to Run
