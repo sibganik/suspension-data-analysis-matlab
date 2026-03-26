@@ -66,21 +66,14 @@ The analysis shows that:
 - the high-frequency response indicates poorer ride quality due to stronger vibration
 
 
-How to Run
-Open MATLAB
-Open src/suspension_analysis.m
-Make sure the data file is available in data/workspace_project_1.mat
-Run the script
-Skills Demonstrated
+## How to Run
 
-This project demonstrates:
+- Open MATLAB
+- Open src/suspension_analysis.m
+- Make sure the data file is available in data/workspace_project_1.mat
+- Run the script
 
-MATLAB scripting
-engineering data visualization
-signal preprocessing
-statistical analysis of experimental data
-interpretation of suspension response
-structured technical documentation
-Author
 
-Nikita Sibgatullin
+
+
+Author - Nikita Sibgatullin
