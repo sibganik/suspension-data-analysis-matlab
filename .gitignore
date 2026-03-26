@@ -1,0 +1,15 @@
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+*.mlx.autosave
+
+# MATLAB generated folders
+slprj/
+codegen/
+
+# Figure files you usually do not need to version
+*.fig
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
