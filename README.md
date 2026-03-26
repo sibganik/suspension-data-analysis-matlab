@@ -64,3 +64,23 @@ The analysis shows that:
 - the low-frequency test produces larger displacement
 - the high-frequency test produces much larger acceleration
 - the high-frequency response indicates poorer ride quality due to stronger vibration
+
+
+How to Run
+Open MATLAB
+Open src/suspension_analysis.m
+Make sure the data file is available in data/workspace_project_1.mat
+Run the script
+Skills Demonstrated
+
+This project demonstrates:
+
+MATLAB scripting
+engineering data visualization
+signal preprocessing
+statistical analysis of experimental data
+interpretation of suspension response
+structured technical documentation
+Author
+
+Nikita Sibgatullin
