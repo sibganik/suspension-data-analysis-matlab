@@ -1,6 +1,3 @@
-# suspension-data-analysis-matlab
-MATLAB project for preprocessing and analyzing suspension sensor data, including RMS, standard deviation, peak-to-peak response, and ride quality comparison.
-
 # Suspension Data Analysis in MATLAB
 
 This repository contains a MATLAB project for preprocessing and analyzing experimental suspension sensor data.
